@@ -1,0 +1,2 @@
+My personal project for September was making a Tic Tac Toe game with Ava Toren. Even though we worked on it alot there are alot of complex errors and new coding language we had to learn, so we decided to extend it to our October IDP also. 
+For my October IDP, i primarily worked on fixing the many errors we had and worked on the visual component of Tic Tac Toe, like the board, structure of X, and Os and focused on the sizing.  
